@@ -1,1 +1,1 @@
-print("Mask is important")
+print("Mask is not important")
